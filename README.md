@@ -1,5 +1,5 @@
 # Twitch Tokens
-Litterly just twitch tokens
+ just twitch tokens
 
 # How to use
 Idfc just use it if u want
